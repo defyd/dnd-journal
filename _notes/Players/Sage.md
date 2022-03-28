@@ -11,6 +11,6 @@ Sage has medium-short, black hair with two longer hair streaks on the sides, and
 
 
 ##### Rumours
-- Sage is rumored to be a low-ranking member of a criminal gang, which holds no name but the members all wear some form of bird mask. The group is nicknamed “Murder of Crows” for their clean work with assassinations.
-- Sage is rumoured to have gotten on the wrong side with a forest witch. The witch was angered by something they had done and had attempted to turn them into a crow, but the spell failed. Now Sage looks like a human freak with wings, legs and talons of a bird. _True? Maybe? It probably doesn't have anything to do with a witch though._
-- Sage was an apprentice at Last Journey, which is rumored to be run by a group of criminals. To dispose of “evidence”, they would use the mortuary services to bury any trail of their work.
+- Sage is rumoured to be a low-ranking member of a criminal gang, which holds no name but the members all wear some form of bird mask. The group is nicknamed “Murder of Crows” for their clean work with assassinations.
+- Sage is rumoured to have got on the wrong side with a forest witch. The witch was angered by something they had done and had attempted to turn them into a crow, but the spell failed. Now Sage looks like a human freak with wings, legs and talons of a bird. _True? Maybe? It probably doesn't have anything to do with a witch, though._
+- Sage was an apprentice at Last Journey, which is rumoured to be run by a group of criminals. To dispose of “evidence”, they would use the mortuary services to bury any trail of their work.
