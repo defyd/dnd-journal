@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Welcome to my (Tomas) notes for the Tik-Tok campaign!
+# Welcome to my (Tomas) notes for the Tik n Tok campaign!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
 
