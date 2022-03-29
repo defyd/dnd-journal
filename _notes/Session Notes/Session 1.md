@@ -7,7 +7,7 @@ Other players; Angela: [[Sage]] Cornelia: [[Finn]] Sebastian: [[Izel]] Ellen: [[
 Pelican - This is officially a trade vessel owned by the [[Gui-apa]], which we may or may not be commandeering (_I don't actually know_). This is the ship we used to sail to the [[Sunken Ship|shipwreck]].
 Gywald Rockjaw - bald chonky man with beard. This is the guy who sent us to the shipwreck in the first place.
 
-We ran into some guards who started questioning what the fuck we were doing. We failed some charisma checks, and when [[Finn]] started flirting with a guard, shit went down fast. Me and [[Sage]] walked away (after some smooth talk and stealth), but [[Finn]] and [[Izel]] remained there, and end up having to bribe the guards (_[[Finn]] ended up giving them his entire purse, 20GP!_)
+We ran into some guards who started questioning what the fuck we were doing. We failed some charisma checks, and when [[Finn]] started flirting with a guard, shit went down fast. Me and [[Sage]] walked away (after some smooth talk and stealth), bgiut [[Finn]] and [[Izel]] remained there, and end up having to bribe the guards (_[[Finn]] ended up giving them his entire purse, 25GP!_)
 
 We illegally set off from the harbour, and as we got out of the city we could hear the alarm bell tolling, meaning someone certainly noticed our unregistered departure.
 
