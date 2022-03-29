@@ -2,7 +2,7 @@
 class BidirectionalLinksGenerator < Jekyll::Generator
   def generate(site)
 
-    puts("test... Hopefully this shows up in the console")
+    Jekyll.logger.info "test... Hopefully this shows up in the console"
 
     graph_nodes = []
     graph_edges = []
