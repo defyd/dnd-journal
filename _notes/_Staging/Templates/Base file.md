@@ -2,8 +2,3 @@
 Title: <% tp.file.title %>
 ---
 # <% tp.file.title %>
-#### Description:
-
-##### Important Info:
-
-##### Rumours:

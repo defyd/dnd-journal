@@ -1,15 +1,15 @@
 ---
-Title: NAME
+Title: <% tp.file.title %>
 ---
-# 
-#### Description
+# <% tp.file.title %>
+#### Description:
 
-##### Backstory
+##### Backstory:
 
 
 
-### Things they have done
+### Things they have done:
 * 
 
-### Things they are going to do
+### Things they are going to do:
 * 

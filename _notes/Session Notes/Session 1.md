@@ -4,7 +4,7 @@ title: Session notes; 1
 
 Other players; Angela: [[Sage]] Cornelia: [[Finn]] Sebastian: [[Izel]] Ellen: [[Anne]]
 
-Pelican - This is officially a trade vessel owned by the [[Gui-apa]], which we may or may not be commandeering (_I don't actually know_). This is the ship we used to sail to the [[Sunken Ship|shipwreck]].
+Pelican - This is officially a trade vessel owned by the [[Gui-Appahanchi|Gui-Apa]], which we may or may not be commandeering (_I don't actually know_). This is the ship we used to sail to the [[Sunken ship|shipwreck]].
 Gywald Rockjaw - bald chonky man with beard. This is the guy who sent us to the shipwreck in the first place.
 
 We ran into some guards who started questioning what the fuck we were doing. We failed some charisma checks, and when [[Finn]] started flirting with a guard, shit went down fast. Me and [[Sage]] walked away (after some smooth talk and stealth), bgiut [[Finn]] and [[Izel]] remained there, and end up having to bribe the guards (_[[Finn]] ended up giving them his entire purse, 25GP!_)
@@ -13,7 +13,7 @@ We illegally set off from the harbour, and as we got out of the city we could he
 
 Our objective turns out to be diving and picking up a big man-made [[Ornate Chronomancy Egg]]. Thankfully, Mr Rockjaw has magical breathing devices for all of us, with enough oxygen to last 30 mins.
 
-Once we got down, we found the [[Sunken Ship]], and it seemed to have been broken in half by something... (_I may or may not have zoned out a bit here, so I missed some lore D:_ )
+Once we got down, we found the [[Sunken ship]], and it seemed to have been broken in half by something... (_I may or may not have zoned out a bit here, so I missed some lore D:_ )
 We found the corpse of a Triton lookin' fella (confirmed by [[Sage]] to be a marrow), who had a spear. His blood had been sucked by ~~something~~ a [[Ixitxachitl]] (or demon ray)? A civilized manta, and some of them can suck blood.
 
 [[Anne]] finds a cool cloak inside the Ship (that seems to be magical), _we later find out that this is a magical cloak of loreeeee (whoever wears it can get dreams / nightmares with premonitions)_
