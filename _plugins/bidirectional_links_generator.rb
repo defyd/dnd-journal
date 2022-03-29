@@ -20,8 +20,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
 
       image_path = "/Attachments/"
 
-      Jekyll.logger.info "checking for Images"
-      Jekyll.logger.info "note without Image detection: \n" + current_note.content
+      #Jekyll.logger.info "checking for Images"
 
       # This will only ever work for image paths like ![[image.png]] and the images have
       # to be located in the /Attatchments folder (not the one in _notes, the one in the
@@ -37,7 +36,6 @@ class BidirectionalLinksGenerator < Jekyll::Generator
         /x,
         '<img src="' + image_path + '\1">'
       )
-      Jekyll.logger.info "note after Image detection: \n" + current_note.content
 
 
       all_docs.each do |note_potentially_linked_to|
