@@ -2,7 +2,6 @@
 class BidirectionalLinksGenerator < Jekyll::Generator
   def generate(site)
 
-    Jekyll.logger.info "test... Hopefully this shows up in the console"
 
     graph_nodes = []
     graph_edges = []
@@ -17,6 +16,30 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     # Convert all Wiki/Roam-style double-bracket link syntax to plain HTML
     # anchor tag elements (<a>) with "internal-link" CSS class
     all_docs.each do |current_note|
+
+
+      image_path = "/Attachments/"
+
+      Jekyll.logger.info "checking for Images"
+      Jekyll.logger.info "note without Image detection: \n" + current_note.content
+
+      # This will only ever work for image paths like ![[image.png]] and the images have
+      # to be located in the /Attatchments folder (not the one in _notes, the one in the
+      # root). I should probably make this export the images automatically, but I have no
+      # clue how to actually do that...
+      current_note.content = current_note.content.gsub(
+        /
+        !\[\[ # Starting with ![[
+        (?!assets)(?!\/assets) # Exclude embeds with assets path
+        ([^\]]+) # Capture entire filename
+        \]\] # Make sure it ends in ]]
+        (?!`$) # Exclude codeblocks ending in `
+        /x,
+        '<img src="' + image_path + '\1">'
+      )
+      Jekyll.logger.info "note after Image detection: \n" + current_note.content
+
+
       all_docs.each do |note_potentially_linked_to|
         note_title_regexp_pattern = Regexp.escape(
           File.basename(
