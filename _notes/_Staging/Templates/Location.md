@@ -1,14 +1,13 @@
 ---
 Title: <% tp.file.title %>
 ---
-# <% tp.file.title %>
 #### Description:
 
-##### History:
+#### History:
 
-###### Important people here:
+#### Important people here:
 
 
 
-### Things that have happened here:
+#### Things that have happened here:
 * 

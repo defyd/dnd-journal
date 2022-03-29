@@ -1,7 +1,6 @@
 ---
 Title: World Info
 ---
-# World Info
 _Ambition gives time, time gives ambition. Those are your gifts, take what else you want._
 
 _Keep moving, keep wanting, keep working._

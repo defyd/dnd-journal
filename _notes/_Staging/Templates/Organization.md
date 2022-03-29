@@ -1,17 +1,16 @@
 ---
 Title: <% tp.file.title %>
 ---
-# <% tp.file.title %>
 #### Info / goals:
 
-##### History:
+#### History:
 
-###### Important people in the organization:
+#### Important people in the organization:
 
 
 
-### Things they have done:
+#### Things they have done:
 * 
 
-### Things we have done with them:
+#### Things we have done with them:
  *

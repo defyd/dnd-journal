@@ -53,4 +53,4 @@ The topaz gems we found are worth between 600gp and 1000gp.
 ***LEVEL UP!***
 
 
-## End of session
+##### End of session

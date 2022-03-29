@@ -1,18 +1,17 @@
 ---
 Title: Izqatwahl
 ---
-# Izqatwahl
 ![[Izqatwahl.png]]
 
 #### Description:
 Province of [[Maschiz]]
 
-##### History:
+#### History:
 -
 
-###### Important cities here:
+#### Important cities here:
 -
 
 
-### Things that have happened here:
+#### Things that have happened here:
 * 
