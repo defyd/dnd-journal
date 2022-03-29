@@ -34,6 +34,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
         # [[A note about cats|this is a link to the note about cats]]
         current_note.content.gsub!(
           /\[\[#{note_title_regexp_pattern}\|(.+?)(?=\])\]\]/i,
+          #"<a class='internal-link' href='#{new_href}'>\\2</a>"
           anchor_tag
         )
 
@@ -41,6 +42,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
         # [[cats|this is a link to the note about cats]]
         current_note.content.gsub!(
           /\[\[#{title_from_data}\|(.+?)(?=\])\]\]/i,
+          #"<a class='internal-link' href='#{new_href}'>\\2</a>"
           anchor_tag
         )
 
