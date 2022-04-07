@@ -1,8 +1,12 @@
 ---
 title: Session notes; 1
 ---
-
-Other players; Angela: [[Sage]] Cornelia: [[Finn]] Sebastian: [[Izel]] Ellen: [[Anne]]
+Present players:
+  Angela: [[Sage]]
+  Cornelia: [[Finn]]
+  Sebastian: [[Izel]]
+  Ellen: [[Anne]]
+  Me: [[Bik]]
 
 Pelican - This is officially a trade vessel owned by the [[Gui-Appahanchi|Gui-Apa]], which we may or may not be commandeering (_I don't actually know_). This is the ship we used to sail to the [[Sunken ship|shipwreck]].
 Gywald Rockjaw - bald chonky man with beard. This is the guy who sent us to the shipwreck in the first place.
@@ -51,6 +55,5 @@ I get a sprained ankle due to my damages, which gives me -5ft of speed for 5 day
 The topaz gems we found are worth between 600gp and 1000gp.
 
 ***LEVEL UP!***
-
 
 ##### End of session
