@@ -1,5 +1,5 @@
 ---
-Title: Session 2
+Title: Session notes; 2
 ---
 Present players:<br>  Angela: [[Sage]]<br>  Cornelia: [[Finn]]<br>  Sebastian: [[Izel]]<br>  Ellen: [[Anne]]<br>  Nicholas:
 

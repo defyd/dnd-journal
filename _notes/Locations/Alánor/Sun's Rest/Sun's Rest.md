@@ -11,4 +11,4 @@ Being one of the first cities, city planning, at least in the old parts is almos
 
 
 #### Things that have happened here:
-* The campaign begun here, and in [[Session 1]] we sailed out to the [[Sunken ship]] from here _(with a boat that may or may not have been stolen)_.
+* The campaign begun here, and in [[Session notes; 1|Session 1]] we sailed out to the [[Sunken ship]] from here _(with a boat that may or may not have been stolen)_.
