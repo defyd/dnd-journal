@@ -1,9 +1,8 @@
 ---
-Title: NAME
+Title: <% tp.file.title %>
 ---
-# 
-#### Description
+#### Description:
 
-##### Important Info
+#### Important Info:
 
-##### Rumours
+#### Rumours:
