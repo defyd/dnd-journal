@@ -1,6 +1,7 @@
 ---
 Title: Sage
 ---
+###### Sage Hemlock (they/them)
 ###### (Angela)
 ![[Pasted image 20220327154313.png]]
 

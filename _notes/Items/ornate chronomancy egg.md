@@ -7,4 +7,7 @@ It's gold, but hollow (not as heavy as if you had a slab of gold). Around it the
 
 _This is going to be important at some point again later, I just know it._
 
-We found it in the [[Sunken ship]], and Gywald Rockjaw wants us to give it to him, and we can keep the other loot in exchange (The Topaz gems and a magical cloak of dreams and nightmares).
+We found it in the [[Sunken ship]], and [[Gywald Rockjaw]] wants us to give it to him, and we can keep the other loot in exchange (The Topaz gems and a magical cloak of dreams and nightmares).
+
+During easter we got a hint to the eggs purpouse:
+___Countless are wasted but even a few can change history___

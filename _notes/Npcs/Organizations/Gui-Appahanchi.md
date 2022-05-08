@@ -16,4 +16,4 @@ The Gui-Appahanchi is a fusion of the two oldest and most influential families o
 * 
 
 #### Things we have done with them:
-* We stole one of their fishing boats in [[Session notes; 1|Session 1]]... Maybe at least. (_I don't actually know if it still was their boat at that point_)
+* The pirate ship we sailed on in [[Session notes; 1|Session 1]] was officially still theirs, so the pirates probably stole it or otherwise got it from them somehow.

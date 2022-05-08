@@ -1,6 +1,7 @@
 ---
 Title: Finn
 ---
+###### Finnlaugur Grímólfursson (he/him)
 ###### (Cornelia)
 ![[Pasted image 20220327154421.png]]
 
@@ -17,4 +18,4 @@ Finnlaugur Brestir Ylur Grímólfursson is a well-built topaz gem dragonborn tha
 #### Rumours:
 - Was once seen entering a brothel, only to leave the next day. Probably not voluntarily, as the manager was screaming after him.
 - He once donated a large sum of money to aid a barkeep in saving his bar, in which he now has an honorary table, and a private room at his disposal. _This seems like it could be true_
-- He’s often credited by strangers for the heroic act of saving a class of first-graders from a burning building that they were trapped in. (edited)
+- He’s often credited by strangers for the heroic act of saving a class of first-graders from a burning building that they were trapped in.

@@ -1,6 +1,7 @@
 ---
 Title: Izel
 ---
+###### Izel Xicali (she/her)
 ###### (Sebastian)
 ![[Pasted image 20220327184031.png]]
 
